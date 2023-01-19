@@ -2,9 +2,11 @@ const form = document.querySelector("#form-habits")
 const nlwSetup = new NLWSetup(form)
 
 const data = {
-  run: ["01-01", "01-02", "01-06", "01-07", "01-08"],
-  takePills: ["01-03"],
-  journal: ["01-02"],
+  gym: ["01-16", "01-17"],
+  water: ["01-15", "01-16", "01-17", "01-18", "01-19"],
+  food: ["01-16", "01-17", "01-18"],
+  sleep: ["01-16", "01-18", "01-19"],
+  study: ["01-16", "01-17", "01-18"],
 }
 
 nlwSetup.setData(data)
