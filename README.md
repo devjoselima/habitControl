@@ -2,7 +2,7 @@
 
 
 ## 📑 Descrição:
-Projeto de um controle de hábitos feito durante a imersão nlw setup da rocketseat em janeiro
+Projeto de um controle de hábitos feito durante a imersão nlw setup da rocketseat em janeiro de 2023.
 
 ## 👨‍💻Tecnologias usadas:
 
