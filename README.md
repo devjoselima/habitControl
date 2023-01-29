@@ -1,7 +1,7 @@
 # <a href="https://to-do-list-five-theta.vercel.app/">HabitControl</a>
 
 
-## 📑 Descrição:
+## ❔ Descrição:
 Projeto de um controle de hábitos feito durante a imersão nlw setup da rocketseat em janeiro de 2023.
 
 ## 👨‍💻Tecnologias usadas:
