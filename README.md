@@ -1,4 +1,4 @@
-# <a href="https://to-do-list-five-theta.vercel.app/">HabitControl</a>
+# <a href="https://habit-control.vercel.app/">HabitControl</a>
 
 
 ## ❔ Descrição:
