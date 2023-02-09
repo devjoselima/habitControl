@@ -1,8 +1,6 @@
 <h1 align="center">✔️Habit Control</h1>
 <p align="center">
-  <a href="https://habit-control.vercel.app/">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>
+  <a href="https://habit-control.vercel.app/">Ver projeto</a>
 </p>
 
 <img alt="screenshot" src="https://user-images.githubusercontent.com/111407140/217716752-2e58ae80-3ac4-4ef9-8a44-e51f5f9fa089.PNG">
